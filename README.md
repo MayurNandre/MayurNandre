@@ -2,7 +2,7 @@
 - ✌️I'm MERN Stack Developer
 - 👀 I’m interested in building Full stack applications
 - 🌱 I’m currently learning Masters of computer application
-- 📫 to reach me LinkedIn - https://www.linkedin.com/mayurnandre
+- 📫 to reach me LinkedIn - https://www.linkedin.com/in/mayurnandre
 
 <!---
 MayurNandre/MayurNandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
