@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MayurNandre
 - ✌️I'm MERN Stack Developer
 - 👀 I’m interested in building Full stack applications
-- 🌱 I’m currently learning Masters of computer application
+- 🌱 I’m currently perusing Masters of computer application
 - 📫 to reach me LinkedIn - https://www.linkedin.com/in/mayurnandre
 
 <!---
