@@ -63,6 +63,9 @@ I'm a passionate **MERN Stack Developer** skilled in building secure and scalabl
 ⭐ **Feel free to connect or collaborate!**
 
 
+![snake gif](https://github.com/MayurNandre/MayurNandre/blob/output/github-contribution-grid-snake.gif)
+
+
 <!---
 MayurNandre/MayurNandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
