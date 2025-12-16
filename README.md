@@ -9,8 +9,7 @@
 I'm a passionate **MERN Stack Developer** skilled in building secure and scalable web applications. Currently pursuing my **bachelors of Computer Applications (BCA)**, I love exploring new technologies and working on impactful projects.
 
 📍 **Location:** Pune, India  
-🎓 **Education:** Bachelor of Computer Applications (BCA) - MJ College, Jalgaon  
-
+🎓 **Education:** Bachelor of Computer Applications (BCA) - Kavayitri Bahinabai Chaudhari North Maharashtra University
 ---
 
 ## 🛠️ My Tech Stack
