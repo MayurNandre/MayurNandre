@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** skilled in building secure and scalable web applications. Currently pursuing my **Master of Computer Applications (MCA)**, I love exploring new technologies and working on impactful projects.
+I'm a passionate **MERN Stack Developer** skilled in building secure and scalable web applications. Currently pursuing my **bachelors of Computer Applications (BCA)**, I love exploring new technologies and working on impactful projects.
 
 📍 **Location:** Pune, India  
 🎓 **Education:** Bachelor of Computer Applications (BCA) - MJ College, Jalgaon  
