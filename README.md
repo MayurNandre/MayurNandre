@@ -54,7 +54,6 @@ I'm a passionate **MERN Stack Developer** skilled in building secure and scalabl
 
 🔗 **Portfolio:** [mayur-nandre.netlify.app](https://mayur-nandre.netlify.app/)  
 💼 **LinkedIn:** [linkedin.com/in/mayurnandre](https://www.linkedin.com/in/mayurnandre)  
-📂 **GitHub:** [github.com/MayurNandre](https://github.com/MayurNandre)  
 ✉️ **Email:** mgnandre07@gmail.com  
 
 ---
