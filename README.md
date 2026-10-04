@@ -76,5 +76,3 @@ Currently focusing on **Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs
 ⭐ Feel free to connect or collaborate!
 
 ---
-
-![GitHub Snake](https://github.com/MayurNandre/MayurNandre/blob/output/github-contribution-grid-snake.gif)
